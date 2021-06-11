@@ -1,0 +1,251 @@
+.zigzag .section2{
+    display: flexbox;
+    width: 100%;
+    /* margin-bottom: 20px; */
+    margin: 30px;
+  }
+
+  .zigzag .section2 .item1{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .zigzag .section2 .inner .inner_item .section2_heading{
+      font-size: 20px;
+      color: #000;
+      margin-bottom: -7px;
+  }
+
+  .zigzag .section2 .inner .inner_item .content{
+      font-size: 10px;
+      color: #000;
+      padding-top: 5px;
+      margin-bottom: -2px;
+  }
+
+  .zigzag .section2 .inner .inner_item .section2_strong{
+    font-size: 17px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: -8px;
+
+  }
+
+  .zigzag .section2 .item1 img{
+    width: 50%;
+  }
+
+  .zigzag .section2 .item1 div{
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flexbox;  
+    width: 50%;
+  }
+
+  .zigzag .section2 .item1 div button{
+    margin-top: 4px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+  }
+
+  .zigzag .section2 .item2{
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+  }
+
+  .zigzag .section2 .item2 img{
+    width: 50%;
+  }
+
+  .zigzag .section2 .item2 div{
+    display:flexbox;
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .zigzag .section2 .item2 div button{
+    margin-top: 4px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+  }
+
+  .zigzag .section2 .item3{
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+  }
+
+  .zigzag .section2 .item3 img{
+    width: 50%;
+  }
+
+  .zigzag .section2 .item3 div{
+    display:flexbox;
+    width: 50%; 
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .zigzag .section2 .item3 div button{
+    margin-top: 4px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+  }
+
+  .zigzag .section2 .item4{
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+  }
+
+  .zigzag .section2 .item4 img{
+    width: 50%;
+  }
+
+  .zigzag .section2 .item4 div{
+    display:flexbox;
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .zigzag .section2 .item4 div button{
+    margin-top: 4px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+  }
+
+
+@media only screen and (min-width:768px){
+
+    .zigzag .section2 .inner .inner_item .section2_heading{
+        font-size: 50px;
+        color: #000;
+        margin-top: 10px;
+    }
+  
+    .zigzag .section2 .inner .inner_item .content{
+        font-size: 20px;
+        color: #000;
+        padding-right: 60px;
+        margin-bottom: 10px;
+    }
+  
+    .zigzag .section2 .inner .inner_item .section2_strong{
+      font-size: 50px;
+      font-weight: bold;
+      color: #000;
+      margin-top: 10px;
+    }
+    
+  .zigzag .section2 .item1{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .zigzag .section2 .item1 img{
+    width: 50%;
+  }
+
+  .zigzag .section2 .item1 div{
+    display: flexbox;  
+    width: 50%;
+    padding-left: 25px;
+    padding-right: 20px;
+  }
+
+  .zigzag .section2 .item1 div button{
+    margin-top: 0px;
+    width: 110px;
+    font-weight: bold;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
+  .zigzag .section2 .item2{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .zigzag .section2 .item2 img{
+    width: 50%;
+  }
+
+  .zigzag .section2 .item2 div{
+    display:flexbox;
+    width: 50%;
+    padding-left: 25px;
+    padding-right: 20px;
+  }
+
+  .zigzag .section2 .item2 div button{
+    margin-top: 0px;
+    width: 110px;
+    font-weight: bold;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
+  .zigzag .section2 .item3{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    }
+
+  .zigzag .section2 .item3 img{
+    width: 50%;
+  }
+
+  .zigzag .section2 .item3 div{
+    display:flexbox;
+    width: 50%; 
+    padding-left: 25px;
+    padding-right: 20px;
+}
+
+  .zigzag .section2 .item3 div button{
+    margin-top: 0px;
+    width: 110px;
+    font-weight: bold;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
+  .zigzag .section2 .item4{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .zigzag .section2 .item4 img{
+    width: 50%;
+  }
+
+  .zigzag .section2 .item4 div{
+    display:flexbox;
+    width: 50%;
+    padding-left: 25px;
+    padding-right: 20px;
+  }
+
+  .zigzag .section2 .item4 div button{
+    margin-top: 0px;
+    width: 110px;
+    font-weight: bold;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+}
